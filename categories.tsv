@@ -1,39 +1,40 @@
-Betegség	Kategória	
-magas vérnyomás	szív és érrendszeri	
-szív és érrendszeri	szív és érrendszeri	
-iszkémiás szívbetegség	szív és érrendszeri	
-daganatos betegség		
-anyagcsere betegség	anyagcsere betegség	
-érszűkület	szív és érrendszeri	
-COPD		Legzöszervi bet
-cukorbetegség		anyagcsere bet
-idült reumás szívbetegség	szív és érrendszeri	
-veseelégtelenség		
-krónikus pancreatitis	emésztőrendszeri betegség	
-alkoholos májkárosodás		
-aorta stenosis	szív és érrendszeri	
-pitvarfibrilláció	szív és érrendszeri	
-encephalopathia		
-hepatopathia		
-hypothyreosis	anyagcsere betegség	
-TBC		
-mikroszkópos colitis		
-pulmonális embólia		
-Hashimoto-thyreoiditis	anyagcsere betegség	
-dermatomyositis		
-diabéteszes polyneuropathia		
-mélyvénás trombózis		
-allergiás asthma		
-stroke	szív és érrendszeri	
-pacemaker	szív és érrendszeri	
-vesetranszplantált		
-degenaratív („kopásos”) gerincbetegség		
-agyi érbetegség	szív és érrendszeri	
-post TBC		
-mellhártya összenövés		
-prosztata-betegség		
-agyi infarktus	szív és érrendszeri	
-szívelégtelenség	szív és érrendszeri	
-krónikus légzőszervi betegség		
-krónikus anyagcsere betegség	anyagcsere betegség	
-érrendszeri betegség	szív és érrendszeri	
+Betegség	Kategória
+magas vérnyomás	magas vérnyomás
+szív és érrendszeri	szív és érrendszeri betegség
+iszkémiás szívbetegség	szív és érrendszeri betegség
+daganatos betegség	daganatos betegség
+anyagcsere betegség	anyagcsere betegség
+érszűkület	szív és érrendszeri betegség
+COPD	légzőrendszeri betegség
+cukorbetegség	anyagcsere betegség
+idült reumás szívbetegség	szív és érrendszeri betegség
+veseelégtelenség	urogenitális rendszer betegsége
+krónikus pancreatitis	emésztőrendszeri betegség
+alkoholos májkárosodás	emésztőrendszeri betegség
+aorta stenosis	szív és érrendszeri betegség
+pitvarfibrilláció	szív és érrendszeri betegség
+encephalopathia	idegrendszeri betegség
+hepatopathia	anyagcsere betegség
+hypothyreosis	anyagcsere betegség
+TBC	fertőző betegség
+mikroszkópos colitis	emésztőrendszeri betegség
+pulmonális embólia	szív és érrendszeri betegség
+Hashimoto-thyreoiditis	anyagcsere betegség
+dermatomyositis	mozgasszervi betegseg
+diabéteszes polyneuropathia	idegrendszeri betegség
+mélyvénás trombózis	szív és érrendszeri betegség
+allergiás asthma	légzőrendszeri betegség
+stroke	szív és érrendszeri betegség
+pacemaker	szív és érrendszeri betegség
+vesetranszplantált	immunhiányos állapot
+degenaratív („kopásos”) gerincbetegség	mozgásszervi betegség
+agyi érbetegség	szív és érrendszeri betegség
+post TBC	fertőző betegség
+mellhártya összenövés	légzőrendszeri betegség
+prosztata-betegség	urogenitális rendszer betegsége
+agyi infarktus	szív és érrendszeri betegség
+szívelégtelenség	szív és érrendszeri betegség
+krónikus légzőszervi betegség	légzőrendszeri betegség
+krónikus anyagcsere betegség	anyagcsere betegség
+érrendszeri betegség	szív és érrendszeri betegség
+epekőműtét	anyagcsere betegség

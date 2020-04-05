@@ -1,19 +1,20 @@
-Allergiás asthma	allergiás asthma
-COPD krónikus tüdőbetegség	COPD
-DM	dermatomyositis
-HT	Hashimoto-thyreoiditis
-ISZB	iszkémiás szívbetegség
-ISzB	iszkémiás szívbetegség
-Ischaemiás szívbetegség ( koszorúér-betegség)	iszkémiás szívbetegség
-LC	mikroszkópos colitis
-MVT	mélyvénás trombózis
-PE	pulmonális embólia
-Vesetranszplantált	vesetranszplantált
-anyagcsere-betegség	anyagcsere betegség
-cukorbeteg	cukorbetegség
-diab. polyneuropathia	diabéteszes polyneuropathia
-magasvérnyomás betegség	magas vérnyomás
-rosszindulatú daganat	daganatos betegség
-szív -és érrendszeri megbetegedés	szív és érrendszeri
-szív- és érrendszeri betegség	szív és érrendszeri
-szív- és érrendszeri megbetegedés	szív és érrendszeri
+Eredeti	Normalizált	Komment
+Allergiás asthma	allergiás asthma	
+COPD krónikus tüdőbetegség	COPD	
+DM	cukorbetegség	
+HT	magas vérnyomás	
+ISZB	iszkémiás szívbetegség	
+ISzB	iszkémiás szívbetegség	
+Ischaemiás szívbetegség ( koszorúér-betegség)	iszkémiás szívbetegség	
+LC	epekőműtét	ezt ki nem talaltam volna sose
+MVT	mélyvénás trombózis	
+PE	pulmonális embólia	
+Vesetranszplantált	vesetranszplantált	
+anyagcsere-betegség	anyagcsere betegség	
+cukorbeteg	cukorbetegség	
+diab. polyneuropathia	diabéteszes polyneuropathia	
+magasvérnyomás betegség	magas vérnyomás	
+rosszindulatú daganat	daganatos betegség	
+szív -és érrendszeri megbetegedés	szív és érrendszeri	
+szív- és érrendszeri betegség	szív és érrendszeri	
+szív- és érrendszeri megbetegedés	szív és érrendszeri	
