@@ -1,7 +1,7 @@
 # Magyar koronavírus halálozási statisztikák
 
 Az itt látható statisztikák a [koronavirus.gov.hu/elhunytak](https://koronavirus.gov.hu/elhunytak) oldalon található táblázat alapján készültek.
-Az ábrák egyesével megtalálhatók a `fig` könyvtárból, az ábrákat előállító kód pedig a [itt](hungary_analysis.ipynb) érhető el.
+Az ábrák egyesével megtalálhatók a `fig` könyvtárban, az ábrákat előállító kód pedig [itt](hungary_analysis.ipynb) érhető el.
 
 Az orvosi információk feldolgozásában Lauter Beatrix segített.
 
@@ -27,7 +27,7 @@ A hivatalos adatok reggelente frissülnek, az ábra az x-tengelyen lévő nap el
 
 # Alapbetegségek
 
-Az alapbetegségek igyekeztünk egységesíteni.
+Az alapbetegségeket igyekeztünk egységesíteni.
 Az összerendelések [itt](name_mapping.tsv) érhetők el.
 
 ## Alapbetegségek számának hisztogramja
