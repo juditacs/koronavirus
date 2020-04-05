@@ -51,3 +51,8 @@ A betegségeket a [Betegségek nemzetközi osztályozása](https://hu.wikipedia.
 A kategorizálás [itt](categories.tsv) érhető el.
 
 ![Disease category](fig/bar_icd.png)
+
+# Feedback
+
+Hibát találtál? Fejlesztési javaslatod van? Kérlek adj fel egy [Github issue-t](https://github.com/juditacs/koronavirus/issues).
+
