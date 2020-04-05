@@ -1,7 +1,7 @@
 # Magyar koronavírus halálozási statisztikák
 
 Az itt látható statisztikák a [koronavirus.gov.hu/elhunytak](https://koronavirus.gov.hu/elhunytak) oldalon található táblázat alapján készültek.
-Az ábrák egyesével megtalálhatók a `fig` könyvtárban, az ábrákat előállító kód pedig [itt](hungary_analysis.ipynb) érhető el.
+Az ábrák egyesével megtalálhatók a [fig](fig) könyvtárban, az ábrákat előállító kód pedig [itt](hungary_analysis.ipynb) érhető el.
 
 Az orvosi információk feldolgozásában Lauter Beatrix segített.
 
