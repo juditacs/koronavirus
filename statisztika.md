@@ -35,7 +35,7 @@ Az összerendelések [itt](name_mapping.tsv) érhetők el.
 Az ábra azt mondja meg, hogy hány olyan beteg van, akinek 0, 1 stb. alapbetegsége van.
 Egy beteghez 7 alapbetegség volt beírva, ez eddig a legmagasabb szám.
 
-A "adat feltöltése folyamatban" és a "ninch adat" mezőket 0 alapbetegségnek vettük.
+A "adat feltöltése folyamatban" és a "nincs adat" mezőket 0 alapbetegségnek vettük.
 
 ![Condition count histogram](fig/condition_histogram.png)
 
