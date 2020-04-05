@@ -45,7 +45,7 @@ Az alapbetegségek különböző részletességgel szerepelnek, pl. iszkémiás 
 
 ![10 most common disease](fig/bar_most_common_diseases.png)
 
-## Betegséges osztályzása és az előfordulások száma
+## Betegségek osztályzása és az előfordulások száma
 
 A kategorizálást a [Betegségek nemzetközi osztályozása](https://hu.wikipedia.org/wiki/Betegs%C3%A9gek_nemzetk%C3%B6zi_oszt%C3%A1lyoz%C3%A1sa) szerint kategorizáltak, kivéve a magas vérnyomást, amit külön kategóriának vettünk.
 A kategorizálás [itt](categories.tsv) érhető el.
