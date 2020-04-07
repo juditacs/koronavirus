@@ -1,11 +1,15 @@
-# Magyar koronavírus halálozási statisztikák
+# Magyar koronavírus statisztikák
 
-Az itt látható statisztikák a [koronavirus.gov.hu/elhunytak](https://koronavirus.gov.hu/elhunytak) oldalon található táblázat alapján készültek.
+Az itt látható statisztikák a [koronavirus.gov.hu/elhunytak](https://koronavirus.gov.hu/elhunytak) oldalon található táblázat és a főoldalon lévő számok alapján készültek.
 Az ábrák egyesével megtalálhatók a [fig](fig) könyvtárban, az ábrákat előállító kód pedig [itt](hungary_analysis.ipynb) érhető el.
 
 Az orvosi információk feldolgozásában Lauter Beatrix segített.
 
 Készítette: Ács Judit
+
+## Összes regisztrált eset, nyitott esetek, gyógyultak, elhunytak
+
+![All cases](fig/line_all.png)
 
 ## Összes elhunyt száma nemek szerint
 
@@ -16,6 +20,12 @@ Készítette: Ács Judit
 A hivatalos adatok reggelente frissülnek, az ábra az x-tengelyen lévő nap előtti reggeltől aznap reggelig elhunytak számát ábrázolja.
 
 ![New death count](fig/line_new_deaths.png)
+
+## Gyógyultak és elhunytak aránya naponta
+
+Előző nap óta meggyógyult és elhunyt betegek aránya.
+
+![Recovery-per-death](fig/line_recovered_per_death.png)
 
 ## Korcsoportonként
 

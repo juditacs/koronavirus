@@ -20,7 +20,7 @@ TBC	fertőző betegség
 mikroszkópos colitis	emésztőrendszeri betegség
 pulmonális embólia	szív és érrendszeri betegség
 Hashimoto-thyreoiditis	anyagcsere betegség
-dermatomyositis	mozgasszervi betegseg
+dermatomyositis	mozgásszervi betegség
 diabéteszes polyneuropathia	idegrendszeri betegség
 mélyvénás trombózis	szív és érrendszeri betegség
 allergiás asthma	légzőrendszeri betegség
@@ -38,3 +38,14 @@ krónikus légzőszervi betegség	légzőrendszeri betegség
 krónikus anyagcsere betegség	anyagcsere betegség
 érrendszeri betegség	szív és érrendszeri betegség
 epekőműtét	anyagcsere betegség
+csontrendszeri elváltozás	mozgásszervi betegség
+veleszületett genetikai rendellenesség	genetikai rendellenesség
+	
+sclerosis multiplex	idegrendszeri betegség
+krónikus tüdőbetegség	légzőrendszeri betegség
+krónikus obstruktív tüdőbetegség	légzőrendszeri betegség
+érelmeszesedés	
+nyirokrendszeri betegség	
+autoimmun betegség	
+combnyaktörés	mozgásszervi betegség
+traumás fejsérülés	
