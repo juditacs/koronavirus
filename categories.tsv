@@ -13,7 +13,7 @@ krónikus pancreatitis	emésztőrendszeri betegség
 alkoholos májkárosodás	emésztőrendszeri betegség
 aorta stenosis	szív és érrendszeri betegség
 pitvarfibrilláció	szív és érrendszeri betegség
-encephalopathia	idegrendszeri betegség
+encephalopathia	idegrendszeri betegség
 hepatopathia	anyagcsere betegség
 hypothyreosis	anyagcsere betegség
 TBC	fertőző betegség
@@ -21,7 +21,7 @@ mikroszkópos colitis	emésztőrendszeri betegség
 pulmonális embólia	szív és érrendszeri betegség
 Hashimoto-thyreoiditis	anyagcsere betegség
 dermatomyositis	mozgásszervi betegség
-diabéteszes polyneuropathia	idegrendszeri betegség
+diabéteszes polyneuropathia	idegrendszeri betegség
 mélyvénás trombózis	szív és érrendszeri betegség
 allergiás asthma	légzőrendszeri betegség
 stroke	szív és érrendszeri betegség
@@ -40,12 +40,15 @@ krónikus anyagcsere betegség	anyagcsere betegség
 epekőműtét	anyagcsere betegség
 csontrendszeri elváltozás	mozgásszervi betegség
 veleszületett genetikai rendellenesség	genetikai rendellenesség
-	
-sclerosis multiplex	idegrendszeri betegség
+sclerosis multiplex	idegrendszeri betegség
 krónikus tüdőbetegség	légzőrendszeri betegség
 krónikus obstruktív tüdőbetegség	légzőrendszeri betegség
 érelmeszesedés	szív és érrendszeri betegség
-nyirokrendszeri betegség	
-autoimmun betegség	
-combnyaktörés	mozgásszervi betegség
-traumás fejsérülés	
+nyirokrendszeri betegség	immunrendszer betegsége
+autoimmun betegség	immunrendszer betegsége
+combnyaktörés	baleseti sérülés
+traumás fejsérülés	baleseti sérülés
+anyagcsere és daganatos betegség	anyagcsere betegség
+magas vérnyomás betegség	magas vérnyomás
+szívbetegség	szív és érrendszeri betegség
+szív és érrendszeri megbetegedés	szív és érrendszeri betegség

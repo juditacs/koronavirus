@@ -1,1 +1,1 @@
-[Magyar koronavírus halálozási statisztikák](statisztika.md)
+[Magyar koronavírus statisztikák](statisztika.md)
