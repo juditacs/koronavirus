@@ -27,6 +27,16 @@ Előző nap óta meggyógyult és elhunyt betegek aránya.
 
 ![Recovery-per-death](fig/line_recovered_per_death.png)
 
+## Naponta elvégzett tesztek száma
+
+![Test-per-day](fig/line_tests_per_day.png)
+
+## Tesztek és új esetek aránya
+
+Hány tesztből lett egy pozitív.
+
+![Tests-per-case](fig/line_test_per_case.png)
+
 ## Korcsoportonként
 
 ![By age group](fig/bar_death_by_age_group.png)
@@ -45,7 +55,7 @@ Az összerendelések [itt](name_mapping.tsv) érhetők el.
 Az ábra azt mondja meg, hogy hány olyan beteg van, akinek 0, 1 stb. alapbetegsége van.
 Egy beteghez 7 alapbetegség volt beírva, ez eddig a legmagasabb szám.
 
-A "adat feltöltése folyamatban" és a "nincs adat" mezőket 0 alapbetegségnek vettük.
+A "adat feltöltése folyamatban" és a "nincs adat" mezőket NA-hoz soroltuk.
 
 ![Condition count histogram](fig/condition_histogram.png)
 
