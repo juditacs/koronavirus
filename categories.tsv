@@ -77,11 +77,11 @@ hasnyálmirigy gyulladás	emésztőrendszeri betegség
 pajzsmirigy betegség	anyagcsere betegség
 idült obstruktív tüdőbetegség	légzőrendszeri betegség
 tüdő fibrózis	légzőrendszeri betegség
-vérszegénység	ver/verkepzorendszer betegsege
+vérszegénység	vérképzőrendszer betegsége
 epilepszia	idegrendszeri betegség
 rheumatoid arthritis	mozgásszervi betegség
 hepatitis B fertőzés	fertőző betegség
-tartós légcsőkanül	legzöszervi
+tartós légcsőkanül	légzőrendszeri betegség
 általános leépülés	ez egy allapot.. 
 pszichiátriai kezelés	idegrendszeri betegség
 májelégtelenség	emésztőrendszeri betegség
@@ -92,5 +92,54 @@ térd arthrosis	mozgásszervi betegség
 kompressziós csigolyatörés	mozgásszervi betegség
 idült légzőszervi megbetegedés	légzőrendszeri betegség
 myelodysplasia	daganatos betegség
-Insuff.circ. Hydrothorax l.u.St.p. AMI	sziv es errendszeri
+Insuff.circ. Hydrothorax l.u.St.p. AMI	szív és érrendszeri betegség
 súlyos depresszió	pszichiatriai/ idegrendszeri
+	
+	
+pneumonia hypostatica l.d. in obs.	légzőrendszeri betegség
+Urocystitis	
+Huntington kór	
+	
+	
+Motoneuron betegség Kísérõbetegség: ISZB	
+M. hypertonicus	
+Mitr. et ao. insuff. valv.	
+Hyperthyreosis	
+Fibr. auric. St.p. cholecytectomiam	
+endokrin betegség	
+szív és agyi erek meszesedése	
+művese kezelés	
+tüdőembolia	
+atrophia cer.	
+LC cholecystect.	
+cataracta műtét	
+portalis encephalopathia	
+csontvelői kóros vérképzés tünetegyüttes	
+pajzsmirigy elégtelenség	anyagcsere betegség
+verőérbetegség	
+végstádiumú vesebetegség	
+generalizált agyi	
+szív-és érrendszeri érelmeszesedés	
+vastagbélrák	
+	
+agyérelmeszesedés	
+koszorúér-betegség	
+agyérelmeszedés	
+hólyagtumor	
+idült szívizom elégtelenség	
+tüdőtágulat	
+stroke következményei	
+májzsugor	
+májeredetű agyvelő bántalom	
+epeműtét utáni állapot	
+szövődményes diabetes mellitus (cukorbetegség)	
+maior amputáció	
+agyi keringési zavar	
+encephalopathia (agykárosodás)	
+Parkinson-kór	
+PEG táplálás	
+cachexia	
+Alzheimer-kór	
+organikus hangulatzavar	
+inkontinencia	
+vesetranszplantált	
